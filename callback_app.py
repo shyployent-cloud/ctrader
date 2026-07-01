@@ -32,7 +32,7 @@ def home():
         <p>Server is running. Complete the cTrader authorization flow to get your code.</p>
         <p>Your redirect URL for cTrader is:</p>
         <code style="background: #16213e; padding: 10px; display: block; margin: 10px 0;">
-            https://https://YOUR-APP-NAME.up.railway.app/callback
+            https://ctrader-production-e77b.up.railway.app
         </code>
     </body>
     </html>
